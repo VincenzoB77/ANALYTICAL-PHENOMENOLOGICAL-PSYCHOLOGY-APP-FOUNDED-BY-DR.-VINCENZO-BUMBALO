@@ -1,4 +1,4 @@
-🇬🇧 FOUNDATIONAL DOCUMENT OF ANALYTICAL PHENOMENOLOGICAL PSYCHOLOGY (APP)
+# **🇬🇧 FOUNDATIONAL DOCUMENT OF ANALYTICAL PHENOMENOLOGICAL PSYCHOLOGY (APP)**
 
 Founded by Dr. Vincenzo Bumbalo, MD
 
@@ -24,13 +24,21 @@ III. Ontological Foundations
 
 APP is founded on four ontological pillars:
 
-1.	The Symbolic Depth of the Psyche The psyche is intrinsically symbolic. Symbols are not decorative elements of thought; they are structural operators of meaning, shaping perception, memory, and identity.
+1.	# **The Symbolic Depth of the Psyche**
 
-2.	The Phenomenological Primacy of Experience Experience is not an epiphenomenon. It is the ground upon which psychological life manifests. APP restores the centrality of the lived world (Lebenswelt) as the primary site of clinical understanding.
+The psyche is intrinsically symbolic. Symbols are not decorative elements of thought; they are structural operators of meaning, shaping perception, memory, and identity.
 
-3.	The Linguistic Constitution of Subjectivity Language is not merely communicative. It is constitutive. The egocentric language—the primordial linguistic form through which the self organizes its world—reveals the architecture of symbolic and affective life.
+2.	# **The Phenomenological Primacy of Experience**
 
-4.	The Neurophenomenological Continuum Neural processes and phenomenological structures are not separate domains. They form a continuum in which embodiment, cognition, and meaning co-emerge.
+Experience is not an epiphenomenon. It is the ground upon which psychological life manifests. APP restores the centrality of the lived world (Lebenswelt) as the primary site of clinical understanding.
+
+3.  # **The Linguistic Constitution of Subjectivity**
+
+Language is not merely communicative. It is constitutive. The egocentric language—the primordial linguistic form through which the self organizes its world—reveals the architecture of symbolic and affective life.
+
+4.	# **The Neurophenomenological Continuum**
+
+Neural processes and phenomenological structures are not separate domains. They form a continuum in which embodiment, cognition, and meaning co-emerge.
 
 IV. Epistemological Principles
 
@@ -102,7 +110,7 @@ APP seeks to:
 
 APP is not a method. It is a school of thought. A new chapter in the history of psychology.
 
-🇮🇹 DOCUMENTO FONDATIVO DELLA ANALYTICAL PHENOMENOLOGICAL PSYCHOLOGY (APP)
+# **🇮🇹 DOCUMENTO FONDATIVO DELLA ANALYTICAL PHENOMENOLOGICAL PSYCHOLOGY (APP)**
 
 Fondata dal Dr. Vincenzo Bumbalo, MD
 
@@ -118,6 +126,7 @@ La Analytical Phenomenological Psychology (APP) è una nuova scuola di pensiero 
 APP non deriva da alcuna tradizione esistente. È un nuovo paradigma, concepito, articolato e formalmente istituito dal suo fondatore.
 
 II. Preludio
+
 La Analytical Phenomenological Psychology (APP) nasce come un nuovo orizzonte teorico nella scienza psicologica contemporanea. Essa risponde alla necessità di riconciliare la profondità simbolica della psicologia analitica con l’immediatezza vissuta dell’esperienza fenomenologica, integrando strutture linguistiche, intuizioni neurofenomenologiche e osservazione clinica in un quadro epistemico unitario.
 APP non è una revisione di scuole esistenti. È una nuova sintesi, un’architettura concettuale che restituisce centralità all’esperienza soggettiva, radicandola nei processi analitici, simbolici e neurocognitivi.
 APP afferma che la psiche non è riducibile né ai meccanismi biologici né ai sistemi simbolici astratti. È un campo dinamico, dove significato, corporeità, linguaggio e simbolo convergono nel dispiegarsi dell’esistenza personale.
@@ -126,13 +135,21 @@ III. Fondamenti Ontologici
 
 APP si fonda su quattro pilastri ontologici:
 
-1.	La profondità simbolica della psiche La psiche è intrinsecamente simbolica. I simboli non sono ornamenti del pensiero: sono operatori strutturali di significato.
+1.	# **La profondità simbolica della psiche**
 
-2.	La centralità fenomenologica dell’esperienza L’esperienza non è un epifenomeno. È il terreno su cui la vita psicologica si manifesta. APP restituisce centralità al mondo vissuto (Lebenswelt) come luogo primario della comprensione clinica.
+La psiche è intrinsecamente simbolica. I simboli non sono ornamenti del pensiero: sono operatori strutturali di significato.
 
-3.	La costituzione linguistica della soggettività Il linguaggio non è solo comunicazione. È costituzione. Il linguaggio egocentrico rivela l’architettura della vita simbolica e affettiva.
+2.	# **La centralità fenomenologica dell’esperienza**
 
-4.	Il continuum neurofenomenologico Processi neurali e strutture fenomenologiche non sono domini separati. Formano un continuum in cui corporeità, cognizione e significato co-emergono.
+L’esperienza non è un epifenomeno. È il terreno su cui la vita psicologica si manifesta. APP restituisce centralità al mondo vissuto (Lebenswelt) come luogo primario della comprensione clinica.
+
+3.	# **La costituzione linguistica della soggettività**
+
+Il linguaggio non è solo comunicazione. È costituzione. Il linguaggio egocentrico rivela l’architettura della vita simbolica e affettiva.
+
+4.	# **Il continuum neurofenomenologico**
+
+Processi neurali e strutture fenomenologiche non sono domini separati. Formano un continuum in cui corporeità, cognizione e significato co-emergono.
 
 IV. Principi Epistemologici
 
@@ -148,7 +165,7 @@ APP propone una nuova epistemologia della psiche:
 
 •	I processi neurocognitivi partecipano alla formazione dei mondi soggettivi.
 
-APP rifiuta il riduzionismo. Affirma complessità, profondità e dignità dell’esperienza umana.
+APP rifiuta il riduzionismo. Afferma complessità, profondità e dignità dell’esperienza umana.
 
 V. Implicazioni Cliniche
 
@@ -203,6 +220,7 @@ APP si propone di:
 •	inaugurare un nuovo orizzonte per la ricerca e la pratica
 
 APP non è un metodo. È una scuola di pensiero. Un nuovo capitolo nella storia della psicologia.
+
 This foundational document formally establishes Analytical Phenomenological Psychology (APP), a new school of thought founded by Dr. Vincenzo Bumbalo. Conceived as an original paradigm within contemporary psychological science, APP integrates analytical psychology, phenomenology, linguistic structures, symbolic function, and neurophenomenology into a unified epistemic architecture.
 
 The document articulates the ontological pillars, epistemological principles, and clinical implications of APP, restoring the primacy of subjective experience while grounding it in symbolic, linguistic, embodied, and neurocognitive processes. It affirms the central foundational statement of the paradigm: “The psyche is the living intersection of symbol, experience, language, and embodiment.”
