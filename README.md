@@ -312,8 +312,66 @@ Questo implica:
 
 L’esperienza è considerata il terreno fondativo della realtà psicologica.
 
+# **Quadro Metodologico (Methodological Framework)**
+
+L’Analytical Phenomenological Psychology (APP) adotta un’architettura metodologica fondata su quattro assi integrati: analisi simbolica, indagine fenomenologica, interpretazione linguistica e mappatura neurofenomenologica. Ogni asse offre un accesso distinto ma interdipendente alla psiche vissuta.
+
+## **1. Analisi Simbolica**
+APP considera i simboli non come rappresentazioni statiche, ma come operatori dinamici di significato.  
+Il lavoro metodologico comprende:
+- identificazione dei pattern simbolici emergenti nell’esperienza soggettiva  
+- interpretazione della loro struttura relazionale  
+- collocazione dei simboli nei contesti personali, culturali ed esistenziali  
+
+I simboli sono trattati come forze attive che modellano l’organizzazione psichica.
+
+## **2. Indagine Fenomenologica**
+L’indagine fenomenologica si concentra sulla centralità dell’esperienza vissuta.  
+Questo implica:
+- attenzione alle descrizioni in prima persona  
+- sospensione delle precomprensioni teoriche  
+- analisi della struttura intenzionale dell’esperienza  
+- tracciamento delle modalità con cui i fenomeni appaiono, si trasformano e si articolano  
+
+L’esperienza è considerata il terreno fondativo della realtà psicologica.
+
 ## **3. Interpretazione Linguistica**
-APP
+APP concepisce il linguaggio come costitutivo della soggettività.  
+Il metodo include:
+- analisi delle forme linguistiche attraverso cui l’esperienza diventa pensabile  
+- esame delle strutture narrative  
+- identificazione dei campi semantici che plasmano l’autocomprensione  
+- esplorazione delle scelte linguistiche come rivelatrici di configurazioni psichiche profonde  
+
+Il linguaggio non è un mezzo di espressione, ma un generatore di soggettività.
+
+## **4. Mappatura Neurofenomenologica**
+APP integra i dati fenomenologici con i processi corporei e neurocognitivi.  
+Questo comporta:
+- correlazione tra strutture esperienziali e pattern corporei  
+- esame delle dinamiche neurali che sostengono processi simbolici, esperienziali e linguistici  
+- mappatura del continuum tra esperienza vissuta e incarnazione biologica  
+
+La psiche è considerata un campo neurofenomenologico unitario.
+
+## **5. Metodo Integrativo**
+APP non tratta questi assi come tecniche separate, ma come prospettive reciprocamente rinforzanti.  
+L’integrazione metodologica segue tre principi:
+- **Convergenza:** più assi illuminano lo stesso fenomeno psicologico  
+- **Complementarità:** ogni asse rivela aspetti inaccessibili agli altri  
+- **Coerenza:** le interpretazioni devono allinearsi nelle dimensioni simboliche, esperienziali, linguistiche e corporee  
+
+Questo metodo integrativo garantisce profondità, rigore e fedeltà alla complessità della psiche.
+
+## **6. Implicazioni Cliniche e di Ricerca**
+Il quadro metodologico APP sostiene:
+- valutazioni cliniche di struttura profonda  
+- analisi fenomenologiche dei casi  
+- ricostruzioni simbolico-linguistiche delle narrazioni psicologiche  
+- ricerca interdisciplinare tra scienze umane e scienze cognitive  
+
+APP fornisce una base metodologica per l’indagine teorica e la pratica applicata.
+
 This foundational document formally establishes Analytical Phenomenological Psychology (APP), a new school of thought founded by Dr. Vincenzo Bumbalo. Conceived as an original paradigm within contemporary psychological science, APP integrates analytical psychology, phenomenology, linguistic structures, symbolic function, and neurophenomenology into a unified epistemic architecture.
 
 The document articulates the ontological pillars, epistemological principles, and clinical implications of APP, restoring the primacy of subjective experience while grounding it in symbolic, linguistic, embodied, and neurocognitive processes. It affirms the central foundational statement of the paradigm: “The psyche is the living intersection of symbol, experience, language, and embodiment.”
