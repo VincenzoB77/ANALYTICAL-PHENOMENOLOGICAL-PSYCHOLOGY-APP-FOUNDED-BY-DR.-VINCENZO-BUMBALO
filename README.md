@@ -212,19 +212,32 @@ Issued in Clifton Park, New York State, on August 12, 2026, this work inaugurate
 The Analytical Phenomenological Psychology (APP) stands as a rigorous, integrative, and profoundly human framework—an intellectual creation entirely conceived and established by its founder, Dr. Vincenzo Bumbalo.
 
 ULTRA RESTRICTED COPYRIGHT NOTICE
+
 © 2026 Dr. Vincenzo Bumbalo. All Rights Reserved.
 This document — including its theoretical content, terminology, conceptual architecture, and the school of thought Analytical Phenomenological Psychology (APP) — is the exclusive intellectual creation of Dr. Vincenzo Bumbalo.
 No part of this work may be:
+
 •	reproduced
+
 •	distributed
+
 •	stored in a retrieval system
+
 •	transmitted in any form or by any means
+
 •	translated
+
 •	adapted
+
 •	modified
+
 •	cited
+
 •	incorporated into other works
+
 without the explicit, prior, written authorization of the author.
+
 Unauthorized use, reproduction, or dissemination — whether partial or total — is strictly prohibited and will be prosecuted under international copyright law.
+
 All conceptual frameworks, definitions, formulations, and theoretical structures contained herein are legally protected as original intellectual property.
 
