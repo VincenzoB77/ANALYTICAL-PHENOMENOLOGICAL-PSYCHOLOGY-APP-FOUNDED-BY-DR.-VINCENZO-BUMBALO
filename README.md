@@ -292,31 +292,6 @@ APP non è un metodo. È una scuola di pensiero. Un nuovo capitolo nella storia 
 L’Analytical Phenomenological Psychology (APP) adotta un’architettura metodologica fondata su quattro assi integrati: analisi simbolica, indagine fenomenologica, interpretazione linguistica e mappatura neurofenomenologica. Ogni asse offre un accesso distinto ma interdipendente alla psiche vissuta.
 
 ## **1. Analisi Simbolica**
-
-APP considera i simboli non come rappresentazioni statiche, ma come operatori dinamici di significato.  
-Il lavoro metodologico comprende:
-- identificazione dei pattern simbolici emergenti nell’esperienza soggettiva  
-- interpretazione della loro struttura relazionale  
-- collocazione dei simboli nei contesti personali, culturali ed esistenziali  
-
-I simboli sono trattati come forze attive che modellano l’organizzazione psichica.
-
-## **2. Indagine Fenomenologica**
-
-L’indagine fenomenologica si concentra sulla centralità dell’esperienza vissuta.  
-Questo implica:
-- attenzione alle descrizioni in prima persona  
-- sospensione delle precomprensioni teoriche  
-- analisi della struttura intenzionale dell’esperienza  
-- tracciamento delle modalità con cui i fenomeni appaiono, si trasformano e si articolano  
-
-L’esperienza è considerata il terreno fondativo della realtà psicologica.
-
-# **Quadro Metodologico (Methodological Framework)**
-
-L’Analytical Phenomenological Psychology (APP) adotta un’architettura metodologica fondata su quattro assi integrati: analisi simbolica, indagine fenomenologica, interpretazione linguistica e mappatura neurofenomenologica. Ogni asse offre un accesso distinto ma interdipendente alla psiche vissuta.
-
-## **1. Analisi Simbolica**
 APP considera i simboli non come rappresentazioni statiche, ma come operatori dinamici di significato.  
 Il lavoro metodologico comprende:
 - identificazione dei pattern simbolici emergenti nell’esperienza soggettiva  
@@ -344,6 +319,7 @@ Il metodo include:
 - esplorazione delle scelte linguistiche come rivelatrici di configurazioni psichiche profonde  
 
 Il linguaggio non è un mezzo di espressione, ma un generatore di soggettività.
+
 
 ## **4. Mappatura Neurofenomenologica**
 APP integra i dati fenomenologici con i processi corporei e neurocognitivi.  
@@ -409,4 +385,7 @@ without the explicit, prior, written authorization of the author.
 Unauthorized use, reproduction, or dissemination — whether partial or total — is strictly prohibited and will be prosecuted under international copyright law.
 
 All conceptual frameworks, definitions, formulations, and theoretical structures contained herein are legally protected as original intellectual property.
+
+
+
 
