@@ -88,7 +88,7 @@ It is a clinical model for the 21st century: rigorous, integrative, and profound
 
 VI. The Foundational Statement
 
-The psyche is the living intersection of symbol, experience, language, and embodiment.
+# **The psyche is the living intersection of symbol, experience, language, and embodiment.**
 
 APP is founded on a single, essential affirmation:
 The psyche is the living intersection of symbol, experience, language, and embodiment.
@@ -199,7 +199,7 @@ APP offre un modello capace di affrontare:
 
 VI. Affermazione Fondativa
 
-La psiche è l’intersezione vivente di simbolo, esperienza, linguaggio e corporeità.
+# **La psiche è l’intersezione vivente di simbolo, esperienza, linguaggio e corporeità.**
 
 APP si fonda su una singola, essenziale affermazione:
 La psiche è l’intersezione vivente di simbolo, esperienza, linguaggio e corporeità.
