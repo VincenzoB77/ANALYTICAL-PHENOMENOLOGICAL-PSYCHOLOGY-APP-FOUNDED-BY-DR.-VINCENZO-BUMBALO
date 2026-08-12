@@ -110,6 +110,72 @@ APP seeks to:
 
 APP is not a method. It is a school of thought. A new chapter in the history of psychology.
 
+# **Methodological Framework**
+
+The Analytical Phenomenological Psychology (APP) adopts a methodological architecture grounded in four integrated axes: symbolic analysis, phenomenological inquiry, linguistic interpretation, and neurophenomenological mapping. Each axis contributes a distinct yet interdependent mode of access to the lived psyche.
+
+## **1. Symbolic Analysis**
+
+APP examines symbols not as static representations but as dynamic operators of meaning.  
+Methodologically, symbolic analysis involves:
+- identifying emergent symbolic patterns in subjective experience  
+- interpreting their relational structure  
+- situating symbols within personal, cultural, and existential contexts  
+
+Symbols are treated as active forces shaping the psyche’s organization.
+
+## **2. Phenomenological Inquiry**
+
+Phenomenological inquiry centers on the primacy of lived experience.  
+This includes:
+- attending to first-person descriptions  
+- bracketing theoretical assumptions  
+- analyzing the intentional structure of experience  
+- tracing how phenomena appear, unfold, and transform  
+
+Experience is approached as the foundational ground of psychological reality.
+
+## **3. Linguistic Interpretation**
+
+APP views language as constitutive of subjectivity.  
+Methodological steps include:
+- analyzing the linguistic forms through which experience becomes thinkable  
+- examining narrative structures  
+- identifying semantic fields that shape self-understanding  
+- exploring how linguistic choices reveal underlying psychological configurations  
+
+Language is not a medium of expression but a generator of subjectivity.
+
+## **4. Neurophenomenological Mapping**
+
+APP integrates phenomenological data with embodied and neurocognitive processes.  
+This involves:
+- correlating experiential structures with embodied patterns  
+- examining how neural dynamics support symbolic, experiential, and linguistic processes  
+- mapping the continuum between lived experience and biological embodiment  
+
+The psyche is approached as a unified neurophenomenological field.
+
+## **5. Integrative Method**
+
+APP does not treat these axes as separate techniques but as mutually reinforcing perspectives.  
+The methodological integration follows three principles:
+- **Convergence:** multiple axes illuminate the same psychological phenomenon  
+- **Complementarity:** each axis reveals aspects inaccessible to the others  
+- **Coherence:** interpretations must align across symbolic, experiential, linguistic, and embodied dimensions  
+
+This integrative method ensures depth, rigor, and fidelity to the complexity of the psyche.
+
+## **6. Clinical and Research Implications**
+
+The APP framework supports:
+- deep-structure clinical assessment  
+- phenomenological case analysis  
+- symbolic-linguistic reconstruction of psychological narratives  
+- interdisciplinary research bridging humanities and cognitive sciences  
+
+APP provides a methodological foundation for both theoretical inquiry and applied practice.
+
 # **🇮🇹 DOCUMENTO FONDATIVO DELLA ANALYTICAL PHENOMENOLOGICAL PSYCHOLOGY (APP)**
 
 Fondata dal Dr. Vincenzo Bumbalo, MD
@@ -221,6 +287,33 @@ APP si propone di:
 
 APP non è un metodo. È una scuola di pensiero. Un nuovo capitolo nella storia della psicologia.
 
+# **Quadro Metodologico (Methodological Framework)**
+
+L’Analytical Phenomenological Psychology (APP) adotta un’architettura metodologica fondata su quattro assi integrati: analisi simbolica, indagine fenomenologica, interpretazione linguistica e mappatura neurofenomenologica. Ogni asse offre un accesso distinto ma interdipendente alla psiche vissuta.
+
+## **1. Analisi Simbolica**
+
+APP considera i simboli non come rappresentazioni statiche, ma come operatori dinamici di significato.  
+Il lavoro metodologico comprende:
+- identificazione dei pattern simbolici emergenti nell’esperienza soggettiva  
+- interpretazione della loro struttura relazionale  
+- collocazione dei simboli nei contesti personali, culturali ed esistenziali  
+
+I simboli sono trattati come forze attive che modellano l’organizzazione psichica.
+
+## **2. Indagine Fenomenologica**
+
+L’indagine fenomenologica si concentra sulla centralità dell’esperienza vissuta.  
+Questo implica:
+- attenzione alle descrizioni in prima persona  
+- sospensione delle precomprensioni teoriche  
+- analisi della struttura intenzionale dell’esperienza  
+- tracciamento delle modalità con cui i fenomeni appaiono, si trasformano e si articolano  
+
+L’esperienza è considerata il terreno fondativo della realtà psicologica.
+
+## **3. Interpretazione Linguistica**
+APP
 This foundational document formally establishes Analytical Phenomenological Psychology (APP), a new school of thought founded by Dr. Vincenzo Bumbalo. Conceived as an original paradigm within contemporary psychological science, APP integrates analytical psychology, phenomenology, linguistic structures, symbolic function, and neurophenomenology into a unified epistemic architecture.
 
 The document articulates the ontological pillars, epistemological principles, and clinical implications of APP, restoring the primacy of subjective experience while grounding it in symbolic, linguistic, embodied, and neurocognitive processes. It affirms the central foundational statement of the paradigm: “The psyche is the living intersection of symbol, experience, language, and embodiment.”
